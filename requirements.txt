@@ -1,4 +1,4 @@
-Flask==1.1.2
+Flask==0.11.1
 get
 gunicorn==19.6.0
 post
@@ -7,5 +7,3 @@ wikipedia
 line-bot-sdk
 pandas==0.20.3
 googletrans
-geopy
-xlrd
